@@ -2,6 +2,11 @@
 
 **AI-powered Tradingview Analyst** — connect Claude Desktop to TradingView via MCP for chart insights and much more.
 
+
+
+https://github.com/user-attachments/assets/c1946e3c-0534-4460-99b3-e62f0dbc24dc
+
+
 ---
 
 ## 🎯 What It Does
