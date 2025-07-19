@@ -30,7 +30,7 @@ Ideal for developers and traders aiming for AI-driven chart workflows and automa
   ```
   git clone https://github.com/mabdullahns007/TradeMCP.git
   cd TradeMCP
-- **Make sure the dependencies are installed correctly**
+- **Run the server.py and make sure the dependencies are installed correctly**
   ```
   python server.py
 - **Edit claude_desktop_config.json file**
@@ -39,7 +39,7 @@ Ideal for developers and traders aiming for AI-driven chart workflows and automa
     "mcpServers": {
       "tradingview": {
         "command": "python",
-        "args": ["C:\\PATH\\TO_YOUR\\FILE\\server.py"]
+        "args": ["C:\\PATH\\TO\\FILE\\server.py"]
       }
     }
   }
@@ -48,6 +48,3 @@ Ideal for developers and traders aiming for AI-driven chart workflows and automa
   ```
   1. Open Tradingview
   2. Get chart image
-  
-
-
