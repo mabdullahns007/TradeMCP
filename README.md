@@ -19,9 +19,8 @@ Ideal for developers and traders aiming for AI-driven chart workflows and automa
 - **Python 3.8+**
 - **Windows OS**
 - **Tradingview Desktop Application**
-- **Configure Shortcut Key (Ctrl + Alt + T) for Tradingview
+- **Configure Shortcut Key (Ctrl + Alt + T) for Tradingview**
 - <img width="358" height="507" alt="image" src="https://github.com/user-attachments/assets/d6061953-b726-4ad7-acf6-1a1b276d0259" />
-
 - Install dependencies:
   ```bash
   pip install mcp[cli] fastmcp pyautogui pygetwindow pywin32
