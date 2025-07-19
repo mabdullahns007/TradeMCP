@@ -1,6 +1,6 @@
 # 🚀 TradeMCP
 
-**AI-powered Tradingview Analyst** — connect Claude Desktop to TradingView via MCP for chart insights and much more.
+**AI-powered Tradingview Assistant** — connect Claude Desktop to TradingView via MCP for chart insights and much more.
 
 
 
