@@ -161,6 +161,7 @@ Create an issue with the "enhancement" label and include:
 - **GitHub Issues**: For bugs and feature requests
 - **Discussions**: For questions and brainstorming
 - **Tag @mabdullahns007**: For urgent matters or guidance
+- **E-mail**: abdullahkhan14625@gmail.com
 
 ## 🏆 Recognition
 
