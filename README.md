@@ -1,4 +1,4 @@
-# 🚀 TradeMCP.ai
+# 🚀 TradeMCP
 
 **AI-powered Tradingview Analyst** — connect Claude Desktop to TradingView via MCP for chart insights and much more.
 
@@ -26,3 +26,28 @@ Ideal for developers and traders aiming for AI-driven chart workflows and automa
   pip install mcp[cli] fastmcp pyautogui pygetwindow pywin32
 
 ## 🛠 Setup & Installation
+- **Clone the Repo**
+  ```
+  git clone https://github.com/mabdullahns007/TradeMCP.git
+  cd TradeMCP
+- **Make sure the dependencies are installed correctly**
+  ```
+  python server.py
+- **Edit claude_desktop_config.json file**
+  ```
+  {
+    "mcpServers": {
+      "tradingview": {
+        "command": "python",
+        "args": ["C:\\PATH\\TO_YOUR\\FILE\\server.py"]
+      }
+    }
+  }
+- **Quit and Restart Claude Desktop**
+- **Give the following prompts to test the MCP Server**
+  ```
+  1. Open Tradingview
+  2. Get chart image
+  
+
+
