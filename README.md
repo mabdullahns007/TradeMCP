@@ -26,18 +26,22 @@ Ideal for developers and traders aiming for AI-driven chart workflows and automa
 - **Tradingview Desktop Application**
 - **Configure Shortcut Key (Ctrl + Alt + T) for Tradingview**
 - <img width="358" height="507" alt="image" src="https://github.com/user-attachments/assets/d6061953-b726-4ad7-acf6-1a1b276d0259" />
-- Install dependencies:
-  ```bash
-  pip install mcp[cli] fastmcp pyautogui pygetwindow pywin32
+
 
 ## 🛠 Setup & Installation
 - **Clone the Repo**
   ```
   git clone https://github.com/mabdullahns007/TradeMCP.git
   cd TradeMCP
+  
+- Install dependencies:
+  ```bash
+  pip install mcp[cli] fastmcp pyautogui pygetwindow pywin32
+  
 - **Run the server.py and make sure the dependencies are installed correctly**
   ```
   python server.py
+  
 - **Edit claude_desktop_config.json file**
   ```
   {
@@ -48,7 +52,9 @@ Ideal for developers and traders aiming for AI-driven chart workflows and automa
       }
     }
   }
+  
 - **Quit and Restart Claude Desktop**
+
 - **Give the following prompts to test the MCP Server**
   ```
   1. Open Tradingview
